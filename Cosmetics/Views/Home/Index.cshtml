@@ -1,0 +1,102 @@
+﻿@using Cosmetics.ViewModels.Home
+@model HomeIndexVM
+
+
+@await Html.PartialAsync("navbarPartial")
+
+  <div class="container" class="main-title">
+    <h5 class="header-title">A Brush of Perfection</h5>
+    <h2 class="middle-title">Add a Flavor to Being a Girl</h2>
+    <p class="end-title">Lorem ipsum dolor sit amet, consectetur</p>
+  </div>
+
+  <div class="product-container">
+
+    @foreach(var product in Model.Products)
+    {
+        <div class="product-card">
+            <img src="~/assets/images/@product.FilePath" alt="product">
+            <div class="product-title">@product.Name</div>
+            <div class="product-name">@product.Description.Substring(0,20)</div>
+            <div class="product-price">£@product.Price</div>
+        </div>
+    }
+ 
+
+  
+
+  </div>
+  <div class="container-image">
+    <div class="image-content">
+      <div class="image-title">
+        <h5>@Model.ProductWholeLook.Title</h5>
+        
+          @Html.Raw(Model.ProductWholeLook.Description)
+      </div>
+      <div class="button-container">
+        <button class="action-button">View More</button>
+      </div>
+    </div>
+    <img src="~/assets/images/@Model.ProductWholeLook.FilePath" alt="product" class="product-image">
+  </div>
+ 
+@await Component.InvokeAsync("Service");
+@await Component.InvokeAsync("Icon")
+  
+  <div class="customer-section">
+    <div class="customer-wrapper">
+      <h4 class="customer-primary-title">Testimonials</h4>
+      <h2 class="cutomer-title">Our Happy Clients</h2>
+      <p class="customer-description">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus
+        nec ullamcorper mattis."</p>
+      <div>
+        <img class="customer-image" src="./src/img/customer4.jpg" alt="customer-image">
+        <p class="customer-name">Marilyn Keller</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="Latest-Product">
+    <h5 class="product-heading">Blossom into a New You!</h5>
+    <h2 class="product-state">Latest Products</h2>
+    <p class="product-description">Lorem ipsum dolor sit amet, consectetur.</p>
+  </div>
+
+  <div class="latest-product-container">
+    <div class="Latest-Product-card">
+      <img src="./src/img/given-skin-toner-300x300.jpg" alt="product">
+      <div class="latest-product-title">Skin Toner</div>
+      <div class="latest-product-name">Skin Whitening Toner</div>
+      <div class="latest-product-price">£45.00</div>
+    </div>
+    <div class="Latest-Product-card">
+      <img src="./src/img/shaving-kit-300x300.jpg" alt="product">
+      <div class="latest-product-title">Anti-aging Cream</div>
+      <div class="latest-product-name">Shaving Kit</div>
+      <div class="latest-product-price">£55.00</div>
+    </div>
+    <div class="Latest-Product-card">
+      <img src="./src/img/rose-essential-oil-300x300.jpg" alt="product">
+      <div class="latest-product-title">Face Cream</div>
+      <div class="latest-product-name">Rose Essential Oil</div>
+      <div class="latest-product-price">£30.00</div>
+    </div>
+    <div class="Latest-Product-card">
+      <img src="./src/img/night-care-cream-300x300.jpg" alt="product">
+      <div class="latest-product-title">Balms</div>
+      <div class="latest-product-name">Night Care Cream</div>
+      <div class="latest-product-price">£25.00</div>
+    </div>
+
+  </div>
+  <div class="form-container">
+    <h2 class="form-title">Sign-up the Makeup Fan Club</h2>
+    <div class="form">
+      <input type="email" placeholder="Enter your email address">
+      <button type="submit">Subscribe</button>
+    </div>
+  </div>
+
+
+
+

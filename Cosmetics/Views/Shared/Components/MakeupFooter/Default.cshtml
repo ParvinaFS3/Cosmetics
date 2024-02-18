@@ -1,0 +1,21 @@
+﻿@model MakeupFooter
+
+
+
+
+<div class="footer-container">
+    <h2>@Model.Title</h2>
+    <img src="~/assets/images/@Model.FilePath" alt="Footer Image">
+
+    <div class="form-container">
+        <h2 class="form-title">Sign-up the Makeup Fan Club</h2>
+        <div class="form">
+            <form asp-action="Subscribe" asp-controller="FanClub" method="post" enctype="multipart/form-data">
+                <input type="hidden" asp-for="Id" />
+                <input type="email" placeholder="Enter your email address">
+                <input type="file" asp-for="formFile" />
+                <button type="submit">Subscribe</button>
+            </form>
+        </div>
+    </div>
+

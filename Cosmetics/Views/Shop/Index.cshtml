@@ -1,0 +1,47 @@
+﻿@using Cosmetics.ViewModels.Shop
+
+@model ProductIndexVM;
+
+
+@await Html.PartialAsync("_navbarShopPartial")
+<div class="container-filter">
+
+    <div class="filter">
+        <form method="get">
+
+            <input type="search" asp-for=" @Model.Title" />
+
+            <div class="filter-price">
+                <input asp-for="@Model.MinQuantity" />
+                <input asp-for="@Model.MaxQuantity" />
+
+            </div>
+            <div>
+               <select  asp-for="@Model.CategoryId" asp-item="@Model.Categories.Select(a=> new SelectListItem(){Text=a.Name , Value=a.Id.ToString()})">
+
+                   <option value="">Category</option>
+               </select>
+            </div>
+
+            <button type="submit">Filter</button>
+        </form>
+    </div>
+    <div class="filter-content">
+        <div class="product-container">
+
+            @foreach (var product in Model.Products)
+            {
+                <div class="filter-card">
+                    <img src="~/assets/images/@product.FilePath" alt="product">
+                    <div class="product-title">@product.Name</div>
+                    <div class="product-name">@product.Description.Substring(0, 20)</div>
+                    <div class="product-price">£@product.Price</div>
+                </div>
+            }
+
+
+
+
+        </div>
+    </div>
+</div>

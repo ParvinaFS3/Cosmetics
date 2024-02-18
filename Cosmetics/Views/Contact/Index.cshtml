@@ -1,0 +1,22 @@
+﻿@using Cosmetics.ViewModels.Contact
+
+@model ContactIndexVM;
+
+
+@await Html.PartialAsync("_navbarContactPartial")
+
+<div class="container-contact">
+    <div class="message">
+        <div class="message-content">
+            <h2></h2>
+            <div class="message-content-body"></div>
+        </div>
+        <form class="message-form" method="post">
+            <input type="text" id="name" />
+            <input type="text" id="surname" />
+            <input type="email" id="email" />
+            <textarea id="message"></textarea>
+            <button type="btn-message">Ok</button>
+        </form>
+    </div>
+</div>

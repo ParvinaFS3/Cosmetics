@@ -1,0 +1,52 @@
+﻿@using Cosmetics.ViewModels.Account
+@model AccountRegisterVM
+
+
+<div class="container mt-5">
+    <h2>Register</h2>
+    <form asp-action="register" asp-controller="account" class="col-6">
+
+        <div class="form-outline mb-4">
+            <label asp-for="NameSurname" class="form-label"></label>
+            <input asp-for="NameSurname" class="form-control" />
+            <span asp-validation-for="NameSurname"> </span>
+        </div>
+
+        <div class="form-outline mb-4">
+            <label asp-for="Username" class="form-label"></label>
+            <input asp-for="Username" class="form-control" />
+            <span asp-validation-for="Username"> </span>
+        </div>
+
+
+        <div class="form-outline mb-4">
+            <label asp-for="Email" class="form-label"></label>
+            <input asp-for="Email" class="form-control" />
+            <span asp-validation-for="Email"> </span>
+
+        </div>
+        <div class="form-outline mb-4">
+            <label asp-for="Password" class="form-label"></label>
+            <input asp-for="Password" class="form-control" />
+            <span asp-validation-for="Password"> </span>
+
+        </div>
+        <div class="form-outline mb-4">
+            <label asp-for="ConfirmPassword" class="form-label"></label>
+            <input asp-for="ConfirmPassword" class="form-control" />
+            <span asp-validation-for="ConfirmPassword"> </span>
+
+        </div>
+        <div asp-validation-summary="ModelOnly">
+        </div>
+
+
+
+        <button class="btn btn-primary btn-block mb-4">Register</button>
+
+        <!-- Register buttons -->
+        <div class="text-center">
+            <p>Already have an account? <a asp-action="login" asp-controller="account" >Login</a></p>
+        </div>
+    </form>
+</div>

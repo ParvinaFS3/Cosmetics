@@ -1,0 +1,46 @@
+﻿@model List<ProductWholeLook>
+<div class="row">
+    <div class="col-lg-12">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">ProductWholeLook </h5>
+                <a class="btn btn-outline-success my-2" href="/admin/productWholeLook/create">Create</a>
+                <div class="table-responsive">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+
+                                <th scope="col">Image</th>
+                                <th scope="col">title</th>
+                                <th scope="col">Edit</th>
+                                <th scope="col">Delete</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @{
+                                foreach (var productWholeLook in Model)
+                                {
+                                    <tr>
+                                        <td><img src="~/assets/images/@productWholeLook.FilePath" style="width:100px; height:100px;" /></td>
+
+                                        <td>@productWholeLook.Title</td>
+
+                                        <td> <a asp-area="Admin" asp-action="Update" asp-controller="ProductWholeLook" asp-route-id="@productWholeLook.Id">Edit</a></td>
+                                        <td>
+                                            <form asp-area="Admin" asp-action="Delete" asp-controller="ProductWholeLook" asp-route-id="@productWholeLook.Id" method="post">
+                                                <button class="btn btn-warning" type="submit">Delete</button>
+                                            </form>
+                                        </td>
+                                    </tr>
+                                }
+                            }
+
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

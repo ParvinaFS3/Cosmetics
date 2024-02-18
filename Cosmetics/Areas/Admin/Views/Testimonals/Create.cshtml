@@ -1,0 +1,25 @@
+﻿@using Cosmetics.Areas.Admin.ViewModels.Testimonal;
+@model CreateTestimonalVM;
+<div class="row mt-3">
+    <div class="col-lg-12">
+        <div class="card">
+            <div class="card-body">
+                <div class="card-title">Testimonal</div>
+                <hr>
+                <form asp-action="Create" asp-area="Admin" asp-controller="Testimonals" method="post" enctype="multipart/form-data">
+                
+                    <div class="form-group">
+                        <label asp-for="File"></label>
+                        <input asp-for="File" type="file" value="FormFile" class="form-control" />
+                        <span class="text-danger" asp-validation-for="File"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-light px-5"><i class="icon-lock"></i> Create</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+

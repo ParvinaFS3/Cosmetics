@@ -1,0 +1,44 @@
+﻿@model List<TestimonalBackground>
+<div class="row">
+    <div class="col-lg-12">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">TestimonalBackground </h5>
+                <a class="btn btn-outline-success my-2" href="/admin/testimonalBackground/create">Create</a>
+                <div class="table-responsive">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+
+                                <th scope="col">Image</th>
+                                <th scope="col">Edit</th>
+                                <th scope="col">Delete</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @{
+                                foreach (var testimonalBackground in Model)
+                                {
+                                    <tr>
+                                        <td><img src="~/assets/images/@testimonalBackground.FilePath" style="width:100px; height:100px;" /></td>
+
+
+                                        <td> <a asp-area="Admin" asp-action="Update" asp-controller="TestimonalBackground" asp-route-id="@testimonalBackground.Id">Edit</a></td>
+                                        <td>
+                                            <form asp-area="Admin" asp-action="Delete" asp-controller="TestimonalBackground" asp-route-id="@testimonalBackground.Id" method="post">
+                                                <button class="btn btn-warning" type="submit">Delete</button>
+                                            </form>
+                                        </td>
+                                    </tr>
+                                }
+                            }
+
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div><!--End Row-->

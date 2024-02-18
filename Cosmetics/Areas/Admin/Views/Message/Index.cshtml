@@ -1,0 +1,45 @@
+﻿@model List<Message>
+<div class="row">
+    <div class="col-lg-12">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Message </h5>
+                <a class="btn btn-outline-success my-2" href="/admin/message/create">Create</a>
+                <div class="table-responsive">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+
+                                <th scope="col">title</th>
+                                <th scope="col">Edit</th>
+                                <th scope="col">Delete</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @{
+                                foreach (var message in Model)
+                                {
+                                    <tr>
+  
+
+                                        <td>@message.Name</td>
+
+                                        <td> <a asp-area="Admin" asp-action="Update" asp-controller="Message" asp-route-id="@message.Id">Edit</a></td>
+                                        <td>
+                                            <form asp-area="Admin" asp-action="Delete" asp-controller="Message" asp-route-id="@message.Id" method="post">
+                                                <button class="btn btn-warning" type="submit">Delete</button>
+                                            </form>
+                                        </td>
+                                    </tr>
+                                }
+                            }
+
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div><!--End Row-->

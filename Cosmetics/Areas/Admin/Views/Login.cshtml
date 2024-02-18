@@ -1,0 +1,42 @@
+﻿@using Cosmetics.ViewModels.Account
+
+@model AccountLoginVM
+  
+
+
+@{
+    var returnUrl = Context.Request.Query["ReturnUrl"];
+}
+
+
+<div class="container mt-5">
+    <h2>Login</h2>
+    <form asp-action="login" asp-controller="account" class="col-6">
+        <input type="hidden" asp-for="ReturnUrl"  value="@returnUrl"/>
+       
+        <div class="form-outline mb-4">
+            <label asp-for="Username" class="form-label"></label>
+            <input asp-for="Username" class="form-control" />
+            <span asp-validation-for="Username"> </span>
+        </div>
+
+
+        <div class="form-outline mb-4">
+            <label asp-for="Password" class="form-label"></label>
+            <input asp-for="Password" class="form-control" />
+            <span asp-validation-for="Password"> </span>
+
+        </div>
+       
+        <div asp-validation-summary="ModelOnly">
+        </div>
+
+
+
+        <button class="btn btn-primary btn-block mb-4">Login</button>
+
+        <div class="text-center">
+            <p>Not a member? <a asp-action="register" asp-controller="account" href="#!">Register</a></p>
+        </div>
+    </form>
+</div>

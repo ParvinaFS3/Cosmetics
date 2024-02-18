@@ -1,0 +1,1550 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\wwwroot\\assets\\js\\basket.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\wwwroot\\assets\\js\\basket.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\wwwroot\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\wwwroot\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\views\\shared\\_navbarcontactpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\views\\shared\\_navbarcontactpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\viewmodels\\contact\\contactindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\viewmodels\\contact\\contactindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\views\\shared\\navbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\views\\shared\\navbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\views\\shared\\_navbarshoppartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\views\\shared\\_navbarshoppartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\header\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\header\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\viewmodels\\shop\\productindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\viewmodels\\shop\\productindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\viewmodels\\home\\homeindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\viewmodels\\home\\homeindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\migrations\\20240218182415_dbcontextmodelservicepropicon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\migrations\\20240218182415_dbcontextmodelservicepropicon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\views\\shared\\components\\service\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\views\\shared\\components\\service\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\testimonalimage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\testimonalimage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\viewcomponents\\serviceviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\viewcomponents\\serviceviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\message\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\message\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\header\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\header\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\header\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\header\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\models\\testimonalimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\models\\testimonalimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\controllers\\testimonalimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\controllers\\testimonalimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\testimonalbackground\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\testimonalbackground\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\testimonalbackground\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\testimonalbackground\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\testimonalbackground\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\testimonalbackground\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\testimonals\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\testimonals\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\testimonals\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\testimonals\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\testimonals\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\testimonals\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\controllers\\testimonalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\controllers\\testimonalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\views\\testimonials\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\views\\testimonials\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\productwholelook\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\productwholelook\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\shared\\_validatorform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\shared\\_validatorform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\controllers\\productwholelookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\controllers\\productwholelookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\views\\shared\\components\\icon\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\views\\shared\\components\\icon\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\viewcomponents\\iconviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\viewcomponents\\iconviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\about\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\about\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\about\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\about\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\migrations\\20240218163022_dbcontextmodelpropcreatecontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\migrations\\20240218163022_dbcontextmodelpropcreatecontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\viewmodels\\about\\updateaboutvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\viewmodels\\about\\updateaboutvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\viewmodels\\about\\createaboutvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\viewmodels\\about\\createaboutvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\models\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\models\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\testimonialmessage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\testimonialmessage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\testimonialmessage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\testimonialmessage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\testimonialmessage\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\testimonialmessage\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\productwholelook\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\productwholelook\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\aboutimages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\aboutimages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\models\\testimonialmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\models\\testimonialmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\controllers\\testimonialmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\controllers\\testimonialmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\models\\testimonals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\models\\testimonals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\viewmodels\\aboutphoto\\createaboutphotovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\viewmodels\\aboutphoto\\createaboutphotovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\viewmodels\\testimonal\\updatetestimonalvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\viewmodels\\testimonal\\updatetestimonalvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\viewmodels\\testimonalbackground\\createtestimonalbackgroundvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\viewmodels\\testimonalbackground\\createtestimonalbackgroundvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\viewmodels\\testimonalbackground\\updatetestimonalbackgroundvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\viewmodels\\testimonalbackground\\updatetestimonalbackgroundvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\controllers\\testimonalbackgroundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\controllers\\testimonalbackgroundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\models\\testimonalbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\models\\testimonalbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\controllers\\makeupfootercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\controllers\\makeupfootercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\controllers\\aboutimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\controllers\\aboutimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\controllers\\aboutphotocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\controllers\\aboutphotocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\productwholelook\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\productwholelook\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\viewmodels\\productwholelook\\updateproductwholelookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\viewmodels\\productwholelook\\updateproductwholelookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\icon\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\icon\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\viewmodels\\productwholelook\\createproductwholelookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\viewmodels\\productwholelook\\createproductwholelookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\icon\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\icon\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\featuredproduct\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\featuredproduct\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\models\\productwholelook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\models\\productwholelook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\featuredproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\featuredproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\models\\featuredproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\models\\featuredproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\controllers\\featuredproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\controllers\\featuredproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\viewmodels\\about\\createaboutphotovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\viewmodels\\about\\createaboutphotovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\models\\header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\models\\header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\message\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\message\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\message\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\message\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\views\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\views\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\viewmodels\\about\\updateaboutphotovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\viewmodels\\about\\updateaboutphotovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|c:\\users\\qagha\\source\\repos\\cosmetics\\cosmetics\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12400E3F-0EA8-4C4B-9DE3-4E5D8AFD3435}|Cosmetics\\Cosmetics.csproj|solutionrelative:cosmetics\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "basket.js",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\wwwroot\\assets\\js\\basket.js",
+              "RelativeDocumentMoniker": "Cosmetics\\wwwroot\\assets\\js\\basket.js",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\wwwroot\\assets\\js\\basket.js",
+              "RelativeToolTip": "Cosmetics\\wwwroot\\assets\\js\\basket.js",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAwEEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-02-18T22:47:50.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_navbarContactPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Views\\Shared\\_navbarContactPartial.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Views\\Shared\\_navbarContactPartial.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Views\\Shared\\_navbarContactPartial.cshtml",
+              "RelativeToolTip": "Cosmetics\\Views\\Shared\\_navbarContactPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T20:35:16.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "Cosmetics\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T18:31:36.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Cosmetics\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T18:44:56.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Cosmetics\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T20:45:09.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\wwwroot\\assets\\css\\style.css",
+              "RelativeDocumentMoniker": "Cosmetics\\wwwroot\\assets\\css\\style.css",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\wwwroot\\assets\\css\\style.css",
+              "RelativeToolTip": "Cosmetics\\wwwroot\\assets\\css\\style.css",
+              "ViewState": "AQIAAP0BAAAAAAAAAAAAAA4CAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-18T18:37:14.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Cosmetics\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T20:39:53.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "Cosmetics\\Controllers\\ShopController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T12:59:08.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactIndexVM.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\ViewModels\\Contact\\ContactIndexVM.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\ViewModels\\Contact\\ContactIndexVM.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\ViewModels\\Contact\\ContactIndexVM.cs",
+              "RelativeToolTip": "Cosmetics\\ViewModels\\Contact\\ContactIndexVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T20:36:30.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_navbarShopPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Views\\Shared\\_navbarShopPartial.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Views\\Shared\\_navbarShopPartial.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Views\\Shared\\_navbarShopPartial.cshtml",
+              "RelativeToolTip": "Cosmetics\\Views\\Shared\\_navbarShopPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T18:39:36.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "navbarPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Views\\Shared\\navbarPartial.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Views\\Shared\\navbarPartial.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Views\\Shared\\navbarPartial.cshtml",
+              "RelativeToolTip": "Cosmetics\\Views\\Shared\\navbarPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T18:39:51.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductIndexVM.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\ViewModels\\Shop\\ProductIndexVM.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\ViewModels\\Shop\\ProductIndexVM.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\ViewModels\\Shop\\ProductIndexVM.cs",
+              "RelativeToolTip": "Cosmetics\\ViewModels\\Shop\\ProductIndexVM.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T11:14:01.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Header\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\Header\\Index.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Header\\Index.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\Header\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T11:15:04.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeIndexVM.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\ViewModels\\Home\\HomeIndexVM.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\ViewModels\\Home\\HomeIndexVM.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\ViewModels\\Home\\HomeIndexVM.cs",
+              "RelativeToolTip": "Cosmetics\\ViewModels\\Home\\HomeIndexVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T16:42:14.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Cosmetics\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T14:47:50.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240218182415_dbContextModelSERVICEPROPiCON.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Migrations\\20240218182415_dbContextModelSERVICEPROPiCON.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Migrations\\20240218182415_dbContextModelSERVICEPROPiCON.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Migrations\\20240218182415_dbContextModelSERVICEPROPiCON.cs",
+              "RelativeToolTip": "Cosmetics\\Migrations\\20240218182415_dbContextModelSERVICEPROPiCON.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T18:24:17.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Models\\Service.cs",
+              "RelativeToolTip": "Cosmetics\\Models\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T18:21:49.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Views\\Shared\\Components\\Service\\Default.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Views\\Shared\\Components\\Service\\Default.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Views\\Shared\\Components\\Service\\Default.cshtml",
+              "RelativeToolTip": "Cosmetics\\Views\\Shared\\Components\\Service\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T18:19:48.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T14:50:25.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\TestimonalImage\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\TestimonalImage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\TestimonalImage\\Index.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\TestimonalImage\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T18:08:07.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServiceViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\ViewComponents\\ServiceViewComponent.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\ViewComponents\\ServiceViewComponent.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\ViewComponents\\ServiceViewComponent.cs",
+              "RelativeToolTip": "Cosmetics\\ViewComponents\\ServiceViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T18:19:01.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Message\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\Message\\Index.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Message\\Index.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\Message\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T11:14:49.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T10:56:38.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Cosmetics\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T16:40:35.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Header\\Create.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\Header\\Create.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Header\\Create.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\Header\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T11:18:44.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Header\\Update.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\Header\\Update.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Header\\Update.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\Header\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T11:29:26.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TestimonalImage.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Models\\TestimonalImage.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Models\\TestimonalImage.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Models\\TestimonalImage.cs",
+              "RelativeToolTip": "Cosmetics\\Models\\TestimonalImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T18:08:21.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TestimonalImageController.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Controllers\\TestimonalImageController.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Controllers\\TestimonalImageController.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Controllers\\TestimonalImageController.cs",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Controllers\\TestimonalImageController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwBcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T18:07:49.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Testimonals\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\Testimonals\\Index.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Testimonals\\Index.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\Testimonals\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T15:16:11.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Testimonals\\Create.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\Testimonals\\Create.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Testimonals\\Create.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\Testimonals\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T15:24:14.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TestimonalsController.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Controllers\\TestimonalsController.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Controllers\\TestimonalsController.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Controllers\\TestimonalsController.cs",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Controllers\\TestimonalsController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T15:15:43.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Testimonals\\Update.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\Testimonals\\Update.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Testimonals\\Update.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\Testimonals\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T15:32:46.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\TestimonalBackground\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\TestimonalBackground\\Index.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\TestimonalBackground\\Index.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\TestimonalBackground\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T14:59:53.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\TestimonalBackground\\Update.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\TestimonalBackground\\Update.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\TestimonalBackground\\Update.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\TestimonalBackground\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T15:06:48.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\TestimonalBackground\\Create.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\TestimonalBackground\\Create.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\TestimonalBackground\\Create.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\TestimonalBackground\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T15:04:21.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Views\\Testimonials\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Views\\Testimonials\\Index.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Views\\Testimonials\\Index.cshtml",
+              "RelativeToolTip": "Cosmetics\\Views\\Testimonials\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T18:05:00.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\ProductWholeLook\\Create.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\ProductWholeLook\\Create.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\ProductWholeLook\\Create.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\ProductWholeLook\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T12:07:17.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAN8AAAAAAAAAAAAAAPUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T16:17:56.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ValidatorForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Shared\\_ValidatorForm.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\Shared\\_ValidatorForm.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Shared\\_ValidatorForm.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\Shared\\_ValidatorForm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T17:46:49.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Views\\Shared\\Components\\Icon\\Default.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Views\\Shared\\Components\\Icon\\Default.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Views\\Shared\\Components\\Icon\\Default.cshtml",
+              "RelativeToolTip": "Cosmetics\\Views\\Shared\\Components\\Icon\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T17:29:24.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IconViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\ViewComponents\\IconViewComponent.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\ViewComponents\\IconViewComponent.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\ViewComponents\\IconViewComponent.cs",
+              "RelativeToolTip": "Cosmetics\\ViewComponents\\IconViewComponent.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwA8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T17:08:12.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ProductWholeLookController.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Controllers\\ProductWholeLookController.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Controllers\\ProductWholeLookController.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Controllers\\ProductWholeLookController.cs",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Controllers\\ProductWholeLookController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T11:46:21.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CreateAboutVM.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\ViewModels\\About\\CreateAboutVM.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\ViewModels\\About\\CreateAboutVM.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\ViewModels\\About\\CreateAboutVM.cs",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\ViewModels\\About\\CreateAboutVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T11:13:36.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20240218163022_dbContextmodelpropCreateContent.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Migrations\\20240218163022_dbContextmodelpropCreateContent.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Migrations\\20240218163022_dbContextmodelpropCreateContent.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Migrations\\20240218163022_dbContextmodelpropCreateContent.cs",
+              "RelativeToolTip": "Cosmetics\\Migrations\\20240218163022_dbContextmodelpropCreateContent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T16:30:24.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T10:53:37.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Models\\About.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Models\\About.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Models\\About.cs",
+              "RelativeToolTip": "Cosmetics\\Models\\About.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T13:16:22.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\About\\Create.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\About\\Create.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\About\\Create.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\About\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T12:58:05.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\About\\Update.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\About\\Update.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\About\\Update.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\About\\Update.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T13:40:14.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\TestimonialMessage\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\TestimonialMessage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\TestimonialMessage\\Index.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\TestimonialMessage\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T15:43:47.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UpdateAboutVM.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\ViewModels\\About\\UpdateAboutVM.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\ViewModels\\About\\UpdateAboutVM.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\ViewModels\\About\\UpdateAboutVM.cs",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\ViewModels\\About\\UpdateAboutVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T13:45:58.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\TestimonialMessage\\Update.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\TestimonialMessage\\Update.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\TestimonialMessage\\Update.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\TestimonialMessage\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T15:44:38.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\TestimonialMessage\\Create.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\TestimonialMessage\\Create.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\TestimonialMessage\\Create.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\TestimonialMessage\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T15:44:13.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\ProductWholeLook\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\ProductWholeLook\\Index.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\ProductWholeLook\\Index.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\ProductWholeLook\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T11:47:08.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\About\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwBcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T13:37:27.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\AboutImages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\AboutImages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\AboutImages\\Index.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\AboutImages\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T14:08:26.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "TestimonialMessage.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Models\\TestimonialMessage.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Models\\TestimonialMessage.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Models\\TestimonialMessage.cs",
+              "RelativeToolTip": "Cosmetics\\Models\\TestimonialMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T15:45:02.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "TestimonialMessageController.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Controllers\\TestimonialMessageController.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Controllers\\TestimonialMessageController.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Controllers\\TestimonialMessageController.cs",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Controllers\\TestimonialMessageController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAqwEYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T15:43:04.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Testimonals.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Models\\Testimonals.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Models\\Testimonals.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Models\\Testimonals.cs",
+              "RelativeToolTip": "Cosmetics\\Models\\Testimonals.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T15:16:24.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CreateAboutPhotoVM.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\ViewModels\\AboutPhoto\\CreateAboutPhotoVM.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\ViewModels\\AboutPhoto\\CreateAboutPhotoVM.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\ViewModels\\AboutPhoto\\CreateAboutPhotoVM.cs",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\ViewModels\\AboutPhoto\\CreateAboutPhotoVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T14:08:00.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "UpdateTestimonalVM.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\ViewModels\\Testimonal\\UpdateTestimonalVM.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\ViewModels\\Testimonal\\UpdateTestimonalVM.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\ViewModels\\Testimonal\\UpdateTestimonalVM.cs",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\ViewModels\\Testimonal\\UpdateTestimonalVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T15:34:36.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Controllers\\MessageController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAF8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T11:14:34.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CreateTestimonalBackgroundVM.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\ViewModels\\TestimonalBackground\\CreateTestimonalBackgroundVM.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\ViewModels\\TestimonalBackground\\CreateTestimonalBackgroundVM.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\ViewModels\\TestimonalBackground\\CreateTestimonalBackgroundVM.cs",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\ViewModels\\TestimonalBackground\\CreateTestimonalBackgroundVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T15:05:13.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "UpdateTestimonalBackgroundVM.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\ViewModels\\TestimonalBackground\\UpdateTestimonalBackgroundVM.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\ViewModels\\TestimonalBackground\\UpdateTestimonalBackgroundVM.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\ViewModels\\TestimonalBackground\\UpdateTestimonalBackgroundVM.cs",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\ViewModels\\TestimonalBackground\\UpdateTestimonalBackgroundVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T15:07:58.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "TestimonalBackground.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Models\\TestimonalBackground.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Models\\TestimonalBackground.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Models\\TestimonalBackground.cs",
+              "RelativeToolTip": "Cosmetics\\Models\\TestimonalBackground.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T15:00:13.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "TestimonalBackgroundController.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Controllers\\TestimonalBackgroundController.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Controllers\\TestimonalBackgroundController.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Controllers\\TestimonalBackgroundController.cs",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Controllers\\TestimonalBackgroundController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAFEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T14:55:14.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "MakeupFooterController.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Controllers\\MakeupFooterController.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Controllers\\MakeupFooterController.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Controllers\\MakeupFooterController.cs",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Controllers\\MakeupFooterController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T14:53:08.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "AboutImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Controllers\\AboutImagesController.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Controllers\\AboutImagesController.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Controllers\\AboutImagesController.cs",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Controllers\\AboutImagesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T14:52:16.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\ProductWholeLook\\Update.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\ProductWholeLook\\Update.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\ProductWholeLook\\Update.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\ProductWholeLook\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T14:32:26.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\FeaturedProduct\\Create.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\FeaturedProduct\\Create.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\FeaturedProduct\\Create.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\FeaturedProduct\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T14:19:09.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Icon\\Create.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\Icon\\Create.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Icon\\Create.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\Icon\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T14:21:34.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "AboutPhotoController.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Controllers\\AboutPhotoController.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Controllers\\AboutPhotoController.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Controllers\\AboutPhotoController.cs",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Controllers\\AboutPhotoController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T10:55:33.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "UpdateProductWholeLookVM.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\ViewModels\\ProductWholeLook\\UpdateProductWholeLookVM.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\ViewModels\\ProductWholeLook\\UpdateProductWholeLookVM.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\ViewModels\\ProductWholeLook\\UpdateProductWholeLookVM.cs",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\ViewModels\\ProductWholeLook\\UpdateProductWholeLookVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T14:34:29.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Icon\\Update.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\Icon\\Update.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Icon\\Update.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\Icon\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T14:35:06.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "CreateProductWholeLookVM.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\ViewModels\\ProductWholeLook\\CreateProductWholeLookVM.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\ViewModels\\ProductWholeLook\\CreateProductWholeLookVM.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\ViewModels\\ProductWholeLook\\CreateProductWholeLookVM.cs",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\ViewModels\\ProductWholeLook\\CreateProductWholeLookVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T12:09:26.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ProductWholeLook.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Models\\ProductWholeLook.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Models\\ProductWholeLook.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Models\\ProductWholeLook.cs",
+              "RelativeToolTip": "Cosmetics\\Models\\ProductWholeLook.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T11:47:43.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\FeaturedProduct\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\FeaturedProduct\\Index.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\FeaturedProduct\\Index.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\FeaturedProduct\\Index.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T10:56:11.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T11:14:21.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "FeaturedProduct.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Models\\FeaturedProduct.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Models\\FeaturedProduct.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Models\\FeaturedProduct.cs",
+              "RelativeToolTip": "Cosmetics\\Models\\FeaturedProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T11:04:45.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "FeaturedProductController.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Controllers\\FeaturedProductController.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Controllers\\FeaturedProductController.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Controllers\\FeaturedProductController.cs",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Controllers\\FeaturedProductController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T10:55:21.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAowC0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T10:55:17.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "CreateAboutPhotoVM.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\ViewModels\\About\\CreateAboutPhotoVM.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\ViewModels\\About\\CreateAboutPhotoVM.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\ViewModels\\About\\CreateAboutPhotoVM.cs",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\ViewModels\\About\\CreateAboutPhotoVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T12:57:48.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Header.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Models\\Header.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Models\\Header.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Models\\Header.cs",
+              "RelativeToolTip": "Cosmetics\\Models\\Header.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T11:47:56.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Models\\Category.cs",
+              "RelativeToolTip": "Cosmetics\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T11:04:40.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAADkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T11:43:29.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Models\\Product.cs",
+              "RelativeToolTip": "Cosmetics\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T11:05:09.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Message\\Create.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\Message\\Create.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Message\\Create.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\Message\\Create.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBsAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T11:19:29.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T11:41:20.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Message\\Update.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\Message\\Update.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Message\\Update.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\Message\\Update.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABsAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T11:29:17.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwCUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T10:56:21.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T11:40:00.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Login.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\Login.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Login.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\Login.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T11:22:14.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAwE8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T11:22:42.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Models\\Message.cs",
+              "RelativeToolTip": "Cosmetics\\Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T11:04:37.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "UpdateAboutPhotoVM.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\ViewModels\\About\\UpdateAboutPhotoVM.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\ViewModels\\About\\UpdateAboutPhotoVM.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\ViewModels\\About\\UpdateAboutPhotoVM.cs",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\ViewModels\\About\\UpdateAboutPhotoVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T11:13:40.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Cosmetics\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\qagha\\source\\repos\\Cosmetics\\Cosmetics\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Cosmetics\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T10:55:20.358Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

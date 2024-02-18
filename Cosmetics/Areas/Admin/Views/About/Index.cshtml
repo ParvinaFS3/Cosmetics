@@ -1,0 +1,46 @@
+﻿@model List<About>
+<div class="row">
+    <div class="col-lg-12">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">About </h5>
+                <a class="btn btn-outline-success my-2" href="/admin/about/create">Create</a>
+                <div class="table-responsive">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+
+                                <th scope="col">Image</th>
+                                <th scope="col">title</th>
+                                <th scope="col">Edit</th>
+                                <th scope="col">Delete</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @{
+                                foreach (var about in Model)
+                                {
+                                    <tr>
+                                        <td><img src="~/assets/images/@about.FilePath" style="width:100px; height:100px;" /></td>
+
+                                        <td>@about.Title</td>
+
+                                        <td> <a asp-area="Admin" asp-action="Update" asp-controller="About" asp-route-id="@about.Id">Edit</a></td>
+                                        <td>
+                                            <form asp-area="Admin" asp-action="Delete" asp-controller="About" asp-route-id="@about.Id" method="post">
+                                                <button type="submit">Delete</button>
+                                            </form>
+                                        </td>
+                                    </tr>
+                                }
+                            }
+
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div><!--End Row-->

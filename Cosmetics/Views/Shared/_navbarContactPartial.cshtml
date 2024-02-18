@@ -1,0 +1,25 @@
+﻿@using Cosmetics.ViewModels.Contact
+@model ContactIndexVM
+
+@if (@Model.Header.OrderHeader ==3)
+{
+    <header style="height: 100vh;
+                    background: #a0a0a03b no-repeat url('/assets/images/@Model.Header.FilePath') center/cover;">
+
+        <nav>
+            <a href=""><img src="/assets/images/white-logo.png" alt="Logo" class="logo" /></a>
+
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/shop">Shop</a></li>
+                <li><a href="/testimonials">Testimonials</a></li>
+                <li><a href="/about">About</a></li>
+                <li><a href="/contact">Contact</a></li>
+            </ul>
+        </nav>
+
+        <div class="contact-content">
+            <h2 class="header-title">@Model.Header.Title</h2>
+        </div>
+    </header>
+}

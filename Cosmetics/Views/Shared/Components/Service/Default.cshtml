@@ -1,0 +1,18 @@
+﻿@model List<Service>
+<div class="container-service">
+    @{
+        foreach (var service in Model)
+        {
+            <div class="service-features">
+               
+                <h4 class="service-title">@service.Title</h4>
+                <p class="service-description">
+                    @service.Description
+
+                </p>
+            </div>
+        }
+
+    }
+
+</div>

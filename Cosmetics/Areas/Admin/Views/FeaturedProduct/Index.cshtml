@@ -1,0 +1,46 @@
+﻿@model List<FeaturedProduct>
+<div class="row">
+    <div class="col-lg-12">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">FeaturedProduct </h5>
+                <a class="btn btn-outline-success my-2" href="/admin/featuredProduct/create">Create</a>
+                <div class="table-responsive">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+
+
+                                <th scope="col">title</th>
+                                <th scope="col">Edit</th>
+                                <th scope="col">Delete</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @{
+                                foreach (var featuredProduct in Model)
+                                {
+                                    <tr>
+
+
+                                        <td>@featuredProduct.Name</td>
+
+                                        <td> <a asp-area="Admin" asp-action="Update" asp-controller="FeaturedProduct" asp-route-id="@featuredProduct.Id">Edit</a></td>
+                                        <td>
+                                            <form asp-area="Admin" asp-action="Delete" asp-controller="FeaturedProduct" asp-route-id="@featuredProduct.Id" method="post">
+                                                <button class="btn btn-warning" type="submit">Delete</button>
+                                            </form>
+                                        </td>
+                                    </tr>
+                                }
+                            }
+
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div><!--End Row-->

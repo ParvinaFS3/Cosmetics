@@ -1,0 +1,16 @@
+﻿@model List<Icon>
+<div class="swiper-container">
+    <div class="swiper-wrapper">
+
+        @{
+
+            foreach (var icon in Model)
+            {
+                <div class="swiper-slide">
+                    <img src="~/assets/images/@icon.FilePath" alt="Logo 1">
+                </div>
+            }
+        }
+
+    </div>
+</div>

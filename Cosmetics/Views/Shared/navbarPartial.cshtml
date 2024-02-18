@@ -1,0 +1,40 @@
+﻿@using Cosmetics.ViewModels.Home
+
+@model HomeIndexVM
+
+@{
+    if(Model.Headers.OrderHeader == 1){
+        <header style=" height: 100vh;
+        background: #a0a0a03b no-repeat url('/assets/images/@Model.Headers.FilePath') center/cover;">
+
+            <nav>
+                <a href=""><img src="/assets/images/white-logo.png" alt="Logo" class="logo"></a>
+
+                <ul>
+                    <a href="/">Home</a>
+                    <a href="/shop">Shop</a>
+                    <a href="/testimonials">Testimonials</a>
+                    <a href="/about">About</a>
+                    <a href="/contact">Contact</a>
+                </ul>
+            </nav>
+            <div class="header-content">
+                <h2 class="header-title">@Model.Headers.Title</h2>
+                <div class="header-content-body">
+                    <p class="header-content-body-title">
+                       @Model.Headers.Content
+                    </p>
+                    <p class="header--content-body-description">
+                      @Model.Headers.Description
+                    </p>
+                </div>
+
+                <button>View More</button>
+            </div>
+        </header>
+    }
+
+           
+        
+    }
+
